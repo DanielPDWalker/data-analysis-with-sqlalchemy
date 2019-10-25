@@ -1,4 +1,4 @@
-# data-analysis-with-sqlalchemy
+# sqlachemy-sqlite-workbook
 
 A quick project, working out pandas interactions with sqlalchemy.
   
